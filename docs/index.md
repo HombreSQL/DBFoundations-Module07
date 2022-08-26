@@ -19,7 +19,7 @@ A ***scalar user-defined function*** returns a single (scalar) value of the type
   
 ![Image of UDF Syntax](../docs/Capture.JPG)
   
-***Figure 1. Example of scalar scalar user-defined function***. 
+***Figure 1. Example of scalar user-defined function syntax.*** 
   
 There are two types of table valued functions which are ***inline table valued function*** (Inline TVF) and ***multi-statement table valued function*** (multi-statement TVF).
 
