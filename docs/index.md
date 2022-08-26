@@ -17,7 +17,8 @@ There are three types of user-defined functions: **Scalar, Inline, and Multi-Sta
   
 A ***scalar user-defined function*** returns a single (scalar) value of the type defined in the RETURNS clause. Note: In MS SQL, you must use the schema name in scalar UDFs, like **dbo**. (Figure 1)  
   
-![Image of UDF Syntax](../docs/Capture.JPG)  
+![Image of UDF Syntax](https://github.com/HombreSQL/DBFoundations-Module07/blob/main/docs/Capture.JPG)
+  
 ***Figure 1. Example of scalar scalar user-defined function***. 
   
 There are two types of table valued functions which are ***inline table valued function*** (Inline TVF) and ***multi-statement table valued function*** (multi-statement TVF).
@@ -34,8 +35,8 @@ For a ***multi-statement scalar function***, the function body can contain a ser
 There are three types of user-defined functions: Scalar, Inline, and Multi-Statement. UDF is an object that can compute a result or extract and return a subset of rows.
   
     
-**References to external sites, 2022:**
-1) [sqlshack.com](https://www.sqlshack.com/learn-sql-user-defined-functions/)
-2) [docs.microsoft.com](https://docs.microsoft.com/en-us/sql/relational-databases/user-defined-functions/user-defined-functions?view=sql-server-ver16)
-3) [blogspot.com](https://excelkingdom.blogspot.com/2018/01/how-to-create-scalar-inline-and-multi.html)
-4) [techcommunity.microsoft.com](https://techcommunity.microsoft.com/t5/sql-server-support-blog/query-performance-and-multi-statement-table-valued-functions/ba-p/316226)
+**References to external sites, 2022:**  
+1) [sqlshack.com](https://www.sqlshack.com/learn-sql-user-defined-functions/)  
+3) [docs.microsoft.com](https://docs.microsoft.com/en-us/sql/relational-databases/user-defined-functions/user-defined-functions?view=sql-server-ver16)  
+4) [blogspot.com](https://excelkingdom.blogspot.com/2018/01/how-to-create-scalar-inline-and-multi.html)  
+5) [techcommunity.microsoft.com](https://techcommunity.microsoft.com/t5/sql-server-support-blog/query-performance-and-multi-statement-table-valued-functions/ba-p/316226)
