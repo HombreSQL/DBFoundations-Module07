@@ -30,8 +30,9 @@ Since the return value is derived from the SELECT statement, there is no BEGIN/E
     
 For a ***multi-statement scalar function***, the function body can contain a series of SQL statements that return the single value. The return type can be any data type except **text**, **ntext**, **image**, **cursor**, and **timestamp**.  
 ## Summary  
-There are three types of user-defined functions: Scalar, Inline, and Multi-Statement. UDF is an object that can compute a result or extract and return a subset of rows.    
+There are three types of user-defined functions: Scalar, Inline, and Multi-Statement. UDF is an object that can compute a result or extract and return a subset of rows.
   
+    
 **References to external sites, 2022:**
 1) [sqlshack.com](https://www.sqlshack.com/learn-sql-user-defined-functions/)
 2) [docs.microsoft.com](https://docs.microsoft.com/en-us/sql/relational-databases/user-defined-functions/user-defined-functions?view=sql-server-ver16)
