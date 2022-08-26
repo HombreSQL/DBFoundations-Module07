@@ -17,7 +17,7 @@ There are three types of user-defined functions: **Scalar, Inline, and Multi-Sta
   
 A ***scalar user-defined function*** returns a single (scalar) value of the type defined in the RETURNS clause. Note: In MS SQL, you must use the schema name in scalar UDFs, like **dbo**. (Figure 1)  
   
-![Image of UDF Syntax]([docs/Capture.JPG](https://github.com/HombreSQL/DBFoundations-Module07/blob/96f59e21c06a5ad06741efc0949bccd324540933/docs/Capture.JPG))  
+![Image of UDF Syntax](https://github.com/HombreSQL/DBFoundations-Module07/blob/main/docs/Capture.JPG)  
 ***Figure 1. Example of scalar scalar user-defined function***. 
   
 There are two types of table valued functions which are ***inline table valued function*** (Inline TVF) and ***multi-statement table valued function*** (multi-statement TVF).
